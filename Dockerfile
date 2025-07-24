@@ -1,6 +1,5 @@
-FROM jrottenberg/ffmpeg:centos
+FROM jrottenberg/ffmpeg:7.1-ubuntu2404-nvidia
 
-MAINTAINER Paul Visco <paul.visco@gmail.com>
 
 #####################################################################
 #
